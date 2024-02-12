@@ -1,4 +1,4 @@
-### Hi there I Am Aditya Patel👋
+### Hi there I am Aditya Patel👋
 
 <!--
 **Aditya-Patel24/Aditya-Patel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
