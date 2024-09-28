@@ -1,8 +1,6 @@
-<h1 align="center">Hey there 👋, I'm</h1>
-
-<p align="center">
+<h1 align="center">Hey there 👋, I'm <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=7E3ACE&center=true&vCenter=true&lines=Aditya+Patel" alt="Typing SVG" />
-</p>
+</p></h1>
 
 <!-- Add a unique 3D or creative GIF here -->
 <p align="center">
