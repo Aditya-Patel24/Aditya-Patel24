@@ -79,25 +79,6 @@
 
 ---
 
-### 🔥 Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-Patel24&theme=react-dark&bg_color=20232a&hide_border=true&line=00E676&color=FFFFFF&point=FF0000">
-</p>
-
----
-
-### 🛠️ GitHub Workflow Badges:
-
-<p align="center">
-  <img src="https://github.com/Aditya-Patel24/actions/workflows/deploy.yml/badge.svg" alt="Build Status">
-  <img src="https://img.shields.io/github/issues/Aditya-Patel24/Blogify?style=flat-square" alt="Open Issues">
-  <img src="https://img.shields.io/github/forks/Aditya-Patel24/Blogify?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/stars/Aditya-Patel24/Blogify?style=flat-square" alt="Stars">
-</p>
-
----
-
 ### 🖼️ Fun with Memes:
 <p align="center">
   <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="300" height="200" alt="Funny Meme">
@@ -129,12 +110,15 @@
 ### 🎨 Aesthetic ASCII Art:
 
 ```plaintext
-   ___
- o|* *|o
-  \_^_/
-   |||
- \||_||/
-  \_|_/
+                                                                               
+           ___                 A       DDDDD   III  TTTTT  Y   Y   A                 ___
+         o|* *|o              A A      D    D   I     T     Y Y   A A              o|* *|o
+          \_^_/              AAAAA     D     D  I     T      Y   AAAAA              \_^_/
+           |||              A     A    D    D   I     T      Y  A     A              |||
+         \||_||/           A       A   DDDDD   III    T      Y A       A           \||_||/
+          \_|_/                                                                     \_|_/
+
 ```
+
 ### 🔥 Fun Fact & Motivation:
 "Great developers are not born, they are made by trial and error." — Aditya
