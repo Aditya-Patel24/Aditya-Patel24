@@ -4,13 +4,13 @@
 
 <!-- Add a unique 3D or creative GIF here -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="400" alt="creative coding gif">
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="100%" height="350" alt="creative coding gif">
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | Data Science Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;Open-Source+Contributor;Machine+Learning+Enthusiast;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;AI+Enthusiast;Machine+Learning+Enthusiast;Always+Learning+New+Things!">
 </p>
 
 <p align="center">
@@ -97,13 +97,6 @@
 3. 🚀 Pushed to `WeatherWebApp` [Commit Message: "Fixed issue with API call"]
 <!--END_SECTION:activity-->
 
----
-
-### 📝 Latest Blog Posts:
-<!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack Blogging Platform with Vite and AppWrite](https://blogify-aditya.vercel.app/)
-- [Top 10 React.js Tips for Better Performance](https://blogify-aditya.vercel.app/)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
