@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm <p align="center">
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=7E3ACE&center=true&vCenter=true&lines=Aditya+Patel" alt="Typing SVG" />
 </p></h1>
 
@@ -67,7 +67,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Patel24&layout=compact&theme=radical" alt="Top Languages">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Patel24&theme=github_dark" alt="Profile Summary">
 </p>
+
 
 ---
 
@@ -79,15 +81,11 @@
 
 ---
 
+### 📈 GitHub Contributions:
 
-### 📈 Latest GitHub Activity:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Aditya-Patel24/Blogify/pull/23) in `Aditya-Patel24/Blogify`
-2. 💬 Commented on [#45](https://github.com/Aditya-Patel24/Sandesh/issues/45)
-3. 🚀 Pushed to `WeatherWebApp` [Commit Message: "Fixed issue with API call"]
-<!--END_SECTION:activity-->
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Patel24&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph">
+</p>
 
 ---
 
