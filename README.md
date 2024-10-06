@@ -79,15 +79,6 @@
 
 ---
 
-### 🖼️ Fun with Memes:
-<p align="center">
-  <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="300" height="200" alt="Funny Meme">
-</p>
-<p align="center">
-  *Check back for a new meme soon!*
-</p>
-
----
 
 ### 📈 Latest GitHub Activity:
 
