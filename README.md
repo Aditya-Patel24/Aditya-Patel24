@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,docker,tailwind,vite,mongodb,python,mysql,html,css,figma,git,postman&theme=dark" alt="Tech Stack Icons">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="48" height="48">
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau Logo" height="48">
+  <img src="https://wallpapers.com/images/hd/tableau-software-logo-design-th525w75z77ccxc9.png" alt="Tableau Logo" height="48">
 </p>
 
 ---
